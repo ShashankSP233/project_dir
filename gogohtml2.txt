@@ -1,0 +1,1169 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="AuGja1tZnula8g99g84tXdYpnTOYY3dZDWwPGrQlieoc5O2XUK43BBV9fkFZ+xa73I8tnEUcdTsA+qiYLKtuggkAAABxeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jby5pbjo0NDMiLCJmZWF0dXJlIjoiTG9uZ0FuaW1hdGlvbkZyYW1lVGltaW5nIiwiZXhwaXJ5IjoxNzA5NjgzMTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=" http-equiv="origin-trial"/>
+  <meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"/>
+  <title>
+   python - Google Search
+  </title>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){
+document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"===c||"q"===c&&!a.elements.q.value?!0:!1}else a=!1;a&&(b.preventDefault(),b.stopPropagation())},!0);document.documentElement.addEventListener("click",function(b){var a;a:{for(a=b.target;a&&a!==document.documentElement;a=a.parentElement)if("A"===a.tagName){a="1"===a.getAttribute("data-nohref");break a}a=!1}a&&b.preventDefault()},!0);}).call(this);(function(){var a=window.performance;window.start=Date.now();a:{var b=window;if(a){var c=a.timing;if(c){var d=c.navigationStart,f=c.responseStart;if(f>d&&f<=window.start){window.start=f;b.wsrt=f-d;break a}}a.now&&(b.wsrt=Math.floor(a.now()))}}window.google=window.google||{};var h=function(g){g&&g.target.setAttribute("data-iml",String(Date.now()))};document.documentElement.addEventListener("load",h,!0);google.rglh=function(){document.documentElement.removeEventListener("load",h,!0)};}).call(this);(function(){window.google.erd={jsr:1,bv:1937,de:true};})();(function(){var sdo=false;var mei=10;
+var h=this||self;var k,l=null!=(k=h.mei)?k:1,n,p=null!=(n=h.sdo)?n:!0,q=0,r,t=google.erd,v=t.jsr;google.ml=function(a,b,d,m,e){e=void 0===e?2:e;b&&(r=a&&a.message);void 0===d&&(d={});d.cad="ple_"+google.ple+".aple_"+google.aple;if(google.dl)return google.dl(a,e,d),null;b=d;if(0>v){window.console&&console.error(a,b);if(-2===v)throw a;b=!1}else b=!a||!a.message||"Error loading script"===a.message||q>=l&&!m?!1:!0;if(!b)return null;q++;d=d||{};b=encodeURIComponent;var c="/gen_204?atyp=i&ei="+b(google.kEI);google.kEXPI&&(c+="&jexpid="+b(google.kEXPI));c+="&srcpg="+b(google.sn)+"&jsr="+b(t.jsr)+"&bver="+
+b(t.bv);var f=a.lineNumber;void 0!==f&&(c+="&line="+f);var g=a.fileName;g&&(0<g.indexOf("-extension:/")&&(e=3),c+="&script="+b(g),f&&g===window.location.href&&(f=document.documentElement.outerHTML.split("\n")[f],c+="&cad="+b(f?f.substring(0,300):"No script found.")));google.ple&&1===google.ple&&(e=2);c+="&jsel="+e;for(var u in d)c+="&",c+=b(u),c+="=",c+=b(d[u]);c=c+"&emsg="+b(a.name+": "+a.message);c=c+"&jsst="+b(a.stack||"N/A");12288<=c.length&&(c=c.substr(0,12288));a=c;m||google.log(0,"",a);return a};window.onerror=function(a,b,d,m,e){r!==a&&(a=e instanceof Error?e:Error(a),void 0===d||"lineNumber"in a||(a.lineNumber=d),void 0===b||"fileName"in a||(a.fileName=b),google.ml(a,!1,void 0,!1,"SyntaxError"===a.name||"SyntaxError"===a.message.substring(0,11)||-1!==a.message.indexOf("Script error")?3:0));r=null;p&&q>=l&&(window.onerror=null)};})();(function(){var c=[],e=0;window.ping=function(b){-1==b.indexOf("&zx")&&(b+="&zx="+Date.now());var a=new Image,d=e++;c[d]=a;a.onerror=a.onload=a.onabort=function(){delete c[d]};a.src=b};}).call(this);
+  </script>
+  <style>
+   a{color:#1a0dab;text-decoration:none;tap-highlight-color:rgba(0,0,0,.10)}a:visited{color:#4b11a8}a:hover{text-decoration:underline}img{border:0}html{font-family:arial,sans-serif;font-size:14px;line-height:20px;text-size-adjust:100%;color:#3c4043;word-wrap:break-word;background-color:#fff}.bRsWnc{background-color:#fff;border-top:1px solid #dadce0;height:39px;overflow:hidden}.N6RWV{height:51px;overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden}.Uv67qb{box-pack:justify;font-size:12px;line-height:37px;justify-content:space-between;justify-content:space-between}.Uv67qb a,.Uv67qb span{color:#70757a;display:block;flex:none;padding:0 16px;text-align:center;text-transform:uppercase;}span.OXXup{border-bottom:2px solid #4285f4;color:#4285f4;font-weight:bold}a.eZt8xd:visited{color:#70757a}.FElbsf{border-left:1px solid rgba(0,0,0,.12)}header article{overflow:visible}.Pg70bf{height:39px;display:box;display:flex;display:flex;width:100%}.H0PQec{position:relative;flex:1}.sbc{display:flex;width:100%}.Pg70bf input{margin:2px 4px 2px 8px;}.x{width:26px;color:#70757a;font:27px/38px arial, sans-serif;line-height:40px;}#qdClwb{flex:0 0 auto;width:39px;height:39px;border-bottom:0;padding:0;border-top-right-radius:8px;background-color:#1a73e8;border:1px solid #1a73e8;background-image:url(data:image/gif;base64,R0lGODdhJAAjAPIHAODr/nCk+MPZ/FmV96zK+/7+/5K5+kqL9iwAAAAAJAAjAEADani63P4wykmbKcQRXDscQAEMXmmeaLQVLCukzyC09AjfeK7v/MAajACLhPMVAgwjsUcEiZa8xgAYrVqv2Kx2iwsIAAABknfBBAKrTE4IcMyot8ur8datqIbQfJdnAfo2WE6BV05wXIiJigkAOw==);}.sc{font-size:16px;position:absolute;top:39px;left:0;right:0;box-shadow:0 2px 5px rgba(0,0,0,.2);z-index:2;background-color:#fff}.sc>div{padding:10px 10px;padding-left:16px;padding-left:14px;border-top:1px solid #dfe1e5;}.scs{background-color:#fafafa;}.noHIxc{display:block;font-size:16px;padding:0 0 0 8px;flex:1;height:35px;outline:none;border:none;width:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);overflow:hidden;}.sbc input[type=text]{background:none}.bz1lBb{background-color:#fff;border-radius:8px 8px 0 0;box-shadow:0 0 0 1px #dfe1e5;margin-top:24px;}.KP7LCb{border-radius:0 0 8px 8px;box-shadow:0px 1px 0px 1px #dfe1e5;margin-bottom:30px;overflow:hidden}html{background-color:#fff}body{margin:0 auto 0 156px;max-width:652px;min-width:652px;padding:0 8px}.cOl4Id{letter-spacing:-1px;text-align:center;font:22pt Futura, Arial, sans-serif;height:37px;font-smoothing:antialiased;padding:32px 28px 0 24px;position:absolute;left:0;top:0}.cOl4Id span{display:inline-block}.V6gwVd{color:#4285f4}.iWkuvd{color:#ea4335}.cDrQ7{color:#fcc934}.ntlR9{color:#34a853}.tJ3Myc{-webkit-transform:rotate(-20deg);position:relative;left:-1px;display:inline-block}footer{text-align:center;margin-top:18px}footer a,footer a:visited,.smiUbb{color:#70757a}.xeDNfc{margin:0 13px;display:inline-block}#EOlPnc{margin-top:36px}#EOlPnc>div{margin:20px}.Srfpq{color:#70757a}
+  </style>
+ </head>
+ <body jsmodel="hspDDf ">
+  <header id="hdr">
+   <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+    (function(){
+var k=this||self,l=function(a){var b=typeof a;return"object"==b&&null!=a||"function"==b},m=function(a,b){function c(){}c.prototype=b.prototype;a.j=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.l=function(d,e,f){for(var g=Array(arguments.length-2),h=2;h<arguments.length;h++)g[h-2]=arguments[h];return b.prototype[e].apply(d,g)}};var n=Array.prototype.indexOf?function(a,b){return Array.prototype.indexOf.call(a,b,void 0)}:function(a,b){if("string"===typeof a)return"string"!==typeof b||1!=b.length?-1:a.indexOf(b,0);for(var c=0;c<a.length;c++)if(c in a&&a[c]===b)return c;return-1};var p=function(a){return"string"==typeof a.className?a.className:a.getAttribute&&a.getAttribute("class")||""},q=function(a,b){"string"==typeof a.className?a.className=b:a.setAttribute&&a.setAttribute("class",b)},r=function(a,b){a.classList?b=a.classList.contains(b):(a=a.classList?a.classList:p(a).match(/\S+/g)||[],b=0<=n(a,b));return b},v=function(){var a=t,b=u;a.classList?a.classList.remove(b):r(a,b)&&q(a,Array.prototype.filter.call(a.classList?a.classList:p(a).match(/\S+/g)||[],function(c){return c!=
+b}).join(" "))};function w(){var a=k.navigator;return a&&(a=a.userAgent)?a:""};var x=function(a){x[" "](a);return a};x[" "]=function(){};var y=-1!=w().indexOf("Gecko")&&!(-1!=w().toLowerCase().indexOf("webkit")&&-1==w().indexOf("Edge"))&&!(-1!=w().indexOf("Trident")||-1!=w().indexOf("MSIE"))&&-1==w().indexOf("Edge");var z=function(a,b){this.type=a;this.target=b};z.prototype.g=function(){};var A=function(){if(!k.addEventListener||!Object.defineProperty)return!1;var a=!1,b=Object.defineProperty({},"passive",{get:function(){a=!0}});try{var c=function(){};k.addEventListener("test",c,b);k.removeEventListener("test",c,b)}catch(d){}return a}();var C=function(a){z.call(this,a?a.type:"");this.relatedTarget=this.target=null;this.button=this.screenY=this.screenX=this.clientY=this.clientX=0;this.key="";this.keyCode=0;this.metaKey=this.shiftKey=this.altKey=this.ctrlKey=!1;this.state=null;this.pointerId=0;this.pointerType="";this.h=null;if(a){var b=this.type=a.type,c=a.changedTouches&&a.changedTouches.length?a.changedTouches[0]:null;this.target=a.target||a.srcElement;var d=a.relatedTarget;if(d){if(y){a:{try{x(d.nodeName);var e=!0;break a}catch(f){}e=
+!1}e||(d=null)}}else"mouseover"==b?d=a.fromElement:"mouseout"==b&&(d=a.toElement);this.relatedTarget=d;c?(this.clientX=void 0!==c.clientX?c.clientX:c.pageX,this.clientY=void 0!==c.clientY?c.clientY:c.pageY,this.screenX=c.screenX||0,this.screenY=c.screenY||0):(this.clientX=void 0!==a.clientX?a.clientX:a.pageX,this.clientY=void 0!==a.clientY?a.clientY:a.pageY,this.screenX=a.screenX||0,this.screenY=a.screenY||0);this.button=a.button;this.keyCode=a.keyCode||0;this.key=a.key||"";this.ctrlKey=a.ctrlKey;this.altKey=a.altKey;this.shiftKey=a.shiftKey;this.metaKey=a.metaKey;this.pointerId=a.pointerId||0;this.pointerType="string"===typeof a.pointerType?a.pointerType:B[a.pointerType]||"";this.state=a.state;this.h=a;a.defaultPrevented&&C.j.g.call(this)}};m(C,z);var B={2:"touch",3:"pen",4:"mouse"};C.prototype.g=function(){C.j.g.call(this);var a=this.h;a.preventDefault?a.preventDefault():a.returnValue=!1};var D="closure_listenable_"+(1E6*Math.random()|0);var E=0;var F=function(a,b,c,d,e){this.listener=a;this.proxy=null;this.src=b;this.type=c;this.capture=!!d;this.h=e;this.key=++E;this.g=this.i=!1},G=function(a){a.g=!0;a.listener=null;a.proxy=null;a.src=null;a.h=null};var H=function(a){this.src=a;this.g={};this.h=0};H.prototype.add=function(a,b,c,d,e){var f=a.toString();a=this.g[f];a||(a=this.g[f]=[],this.h++);var g;a:{for(g=0;g<a.length;++g){var h=a[g];if(!h.g&&h.listener==b&&h.capture==!!d&&h.h==e)break a}g=-1}-1<g?(b=a[g],c||(b.i=!1)):(b=new F(b,this.src,f,!!d,e),b.i=c,a.push(b));return b};var I="closure_lm_"+(1E6*Math.random()|0),J={},K=0,M=function(a,b,c,d,e){if(d&&d.once)return L(a,b,c,d,e);if(Array.isArray(b)){for(var f=0;f<b.length;f++)M(a,b[f],c,d,e);return null}c=N(c);return a&&a[D]?a.g(b,c,l(d)?!!d.capture:!!d,e):O(a,b,c,!1,d,e)},O=function(a,b,c,d,e,f){if(!b)throw Error("a");var g=l(e)?!!e.capture:!!e,h=P(a);h||(a[I]=h=new H(a));c=h.add(b,c,d,g,f);if(c.proxy)return c;d=Q();c.proxy=d;d.src=a;d.listener=c;if(a.addEventListener)A||(e=g),void 0===e&&(e=!1),a.addEventListener(b.toString(),d,e);else if(a.attachEvent)a.attachEvent(R(b.toString()),d);else if(a.addListener&&a.removeListener)a.addListener(d);else throw Error("b");K++;return c},Q=function(){var a=S,b=function(c){return a.call(b.src,b.listener,c)};return b},L=function(a,b,c,d,e){if(Array.isArray(b)){for(var f=0;f<b.length;f++)L(a,b[f],c,d,e);return null}c=N(c);return a&&a[D]?a.h(b,c,l(d)?!!d.capture:!!d,e):O(a,b,c,!0,d,e)},T=function(a){if("number"!==typeof a&&a&&!a.g){var b=a.src;if(b&&b[D])b.s(a);else{var c=a.type,d=a.proxy;b.removeEventListener?b.removeEventListener(c,d,a.capture):b.detachEvent?b.detachEvent(R(c),d):b.addListener&&b.removeListener&&b.removeListener(d);K--;if(c=P(b)){d=a.type;if(d in c.g){var e=c.g[d],f=n(e,a),g;(g=0<=f)&&Array.prototype.splice.call(e,f,1);g&&(G(a),0==c.g[d].length&&(delete c.g[d],c.h--))}0==c.h&&(c.src=null,b[I]=null)}else G(a)}}},R=function(a){return a in J?J[a]:J[a]="on"+a},S=function(a,b){if(a.g)a=!0;else{b=new C(b,this);var c=a.listener,d=a.h||a.src;a.i&&T(a);a=c.call(d,b)}return a},P=function(a){a=a[I];return a instanceof H?a:null},U="__closure_events_fn_"+(1E9*Math.random()>>>0),N=function(a){if("function"===typeof a)return a;a[U]||(a[U]=function(b){return a.handleEvent(b)});return a[U]};var u,t=document.documentElement,V;function W(){T(V);V=L(t,"mousedown",function(){v();X()},{capture:!0})}function X(){T(V);V=M(t,"keydown",function(a){if(9===a.keyCode){a=t;var b=u;if(a.classList)a.classList.add(b);else if(!r(a,b)){var c=p(a);q(a,c+(0<c.length?" "+b:b))}W()}})};u="zAoYTe";X();}).call(this);
+   </script>
+   <div class="cOl4Id">
+    <a href="/?sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQOwgC">
+     <span class="V6gwVd">
+      G
+     </span>
+     <span class="iWkuvd">
+      o
+     </span>
+     <span class="cDrQ7">
+      o
+     </span>
+     <span class="V6gwVd">
+      g
+     </span>
+     <span class="ntlR9">
+      l
+     </span>
+     <span class="iWkuvd tJ3Myc">
+      e
+     </span>
+    </a>
+   </div>
+   <div class="bz1lBb">
+    <form class="Pg70bf" id="sf">
+     <input name="sca_esv" type="hidden" value="598359895"/>
+     <div class="H0PQec">
+      <div class="sbc esbc">
+       <input autocapitalize="none" autocomplete="off" class="noHIxc" name="q" spellcheck="false" type="text" value="python"/>
+       <input name="oq" type="hidden"/>
+       <input name="aqs" type="hidden"/>
+       <div class="x">
+        ×
+       </div>
+       <div class="sc">
+       </div>
+      </div>
+     </div>
+     <button id="qdClwb" type="submit">
+     </button>
+    </form>
+   </div>
+   <noscript>
+    <meta content="0;url=/search?q=python&amp;sca_esv=598359895&amp;gbv=1&amp;sei=tsqjZfDBB-Tp4-EPgq-b2A8" http-equiv="refresh"/>
+    <style>
+     table,div,span,p{display:none}
+    </style>
+    <div style="display:block">
+     Please click
+     <a href="/search?q=python&amp;sca_esv=598359895&amp;gbv=1&amp;sei=tsqjZfDBB-Tp4-EPgq-b2A8">
+      here
+     </a>
+     if you are not redirected within a few seconds.
+    </div>
+   </noscript>
+  </header>
+  <div id="main">
+   <div>
+    <div class="KP7LCb">
+     <div class="bRsWnc">
+      <div class="N6RWV">
+       <div class="Pg70bf Uv67qb">
+        <span class="OXXup">
+         All
+        </span>
+        <a class="eZt8xd" href="/search?q=python&amp;sca_esv=598359895&amp;tbm=isch&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ_AUIBigB">
+         Images
+        </a>
+        <a class="eZt8xd" href="/search?q=python&amp;sca_esv=598359895&amp;tbm=vid&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ_AUIBygC">
+         Videos
+        </a>
+        <a class="eZt8xd" href="/search?q=python&amp;sca_esv=598359895&amp;tbm=bks&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ_AUICCgD">
+         Books
+        </a>
+        <a href="/url?q=https://maps.google.com/maps%3Fq%3Dpython%26um%3D1%26ie%3DUTF-8&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQiaAMCAkoBA&amp;usg=AOvVaw0b9EnUovTumZX4b5q2DbCW">
+         Maps
+        </a>
+        <a href="/search?q=python&amp;sca_esv=598359895&amp;tbm=nws&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ_AUICigF">
+         News
+        </a>
+        <a href="/url?q=/search%3Fq%3Dpython%26sca_esv%3D598359895%26tbm%3Dshop%26source%3Dlnms&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQiaAMCAsoBg&amp;usg=AOvVaw1G-5XfXiiy-S0BBTWeTRtx">
+         Shopping
+        </a>
+        <div class="FElbsf">
+         <a href="/advanced_search" id="st-toggle" role="button" style="white-space:nowrap">
+          Search tools
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="Pg70bf wEsjbd Gx5Zad xpd EtOod pkphOe" id="st-card" style="display:none">
+     <style>
+      .wEsjbd{background-color:#fff;height:44px;white-space:nowrap}.coPU8c{height:60px;overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden}.Xj2aue{height:44px;overflow:hidden}.RnNGze{margin:11px 16px}.wEsjbd div,.wEsjbd a,.wEsjbd li{outline-width:0;outline:none}
+     </style>
+     <div class="Xj2aue">
+      <div class="coPU8c">
+       <div class="RnNGze">
+        <style>
+         .PA9J5{display:inline-block}.RXaOfd{display:inline-block;height:22px;position:relative;padding-top:0;padding-bottom:0;padding-right:16px;padding-left:0;line-height:22px;cursor:pointer;text-transform:uppercase;font-size:12px;color:#70757a}.sa1toc{background:#fff;display:none;position:absolute;border:1px solid #dadce0;box-shadow:0 2px 4px rgba(0,0,0,.3);margin:0;white-space:nowrap;z-index:103;line-height:17px;padding-top:5px;padding-bottom:5px;padding-left:0}.PA9J5:hover .sa1toc{display:block}.mGSy8d a:active,.RXaOfd:active{color:#4285f4}
+        </style>
+        <div class="PA9J5">
+         <div class="RXaOfd" role="button" tabindex="0">
+          <style>
+           .TWMOUc{display:inline-block;padding-right:14px;white-space:nowrap}.vQYuGf{font-weight:bold}.OmTIzf{border-color:#909090 transparent;border-style:solid;border-width:4px 4px 0 4px;width:0;height:0;margin-left:-10px;top:50%;margin-top:-2px;position:absolute}.RXaOfd:active .OmTIzf{border-color:#4285f4 transparent}
+          </style>
+          <div class="TWMOUc">
+           Any time
+          </div>
+          <span class="OmTIzf">
+          </span>
+         </div>
+         <ul class="sa1toc ozatM">
+          <style>
+           .ozatM{font-size:12px;text-transform:uppercase}.ozatM .yNFsl,.ozatM li{list-style-type:none;list-style-position:outside;list-style-image:none}.yNFsl.SkUj4c,.yNFsl a{color:#70757a;text-decoration:none;padding:6px 44px 6px 14px;line-height:17px;display:block}.SkUj4c{background-image:url(//ssl.gstatic.com/ui/v1/menu/checkmark2.png);background-position:right center;background-repeat:no-repeat}.SkUj4c:active{background-color:#f8f9fa}
+          </style>
+          <li class="yNFsl SkUj4c">
+           Any time
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=python&amp;sca_esv=598359895&amp;source=lnt&amp;tbs=qdr:h&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQpwUIDQ">
+            Past hour
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=python&amp;sca_esv=598359895&amp;source=lnt&amp;tbs=qdr:d&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQpwUIDg">
+            Past 24 hours
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=python&amp;sca_esv=598359895&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQpwUIDw">
+            Past week
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=python&amp;sca_esv=598359895&amp;source=lnt&amp;tbs=qdr:m&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQpwUIEA">
+            Past month
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=python&amp;sca_esv=598359895&amp;source=lnt&amp;tbs=qdr:y&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQpwUIEQ">
+            Past year
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="PA9J5">
+         <div class="RXaOfd" role="button" tabindex="0">
+          <div class="TWMOUc">
+           All results
+          </div>
+          <span class="OmTIzf">
+          </span>
+         </div>
+         <ul class="sa1toc ozatM">
+          <li class="yNFsl SkUj4c">
+           All results
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=python&amp;sca_esv=598359895&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQpwUIEw">
+            Verbatim
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+     <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+      (function(){var a=document.getElementById("st-toggle"),b=document.getElementById("st-card");a&&b&&a.addEventListener("click",function(c){b.style.display=b.style.display?"":"none";c.preventDefault()},!1);}).call(this);
+     </script>
+    </div>
+   </div>
+   <style>
+    .Gx5Zad{background-color:#fff;margin-bottom:30px;box-shadow:0 0 0 1px #dfe1e5;border-radius:8px}.pkphOe{font-size:14px;line-height:22px;}.EtOod>*:first-child{border-top-left-radius:8px;border-top-right-radius:8px}.EtOod>*:last-child{border-bottom-left-radius:8px;border-bottom-right-radius:8px}.EtOod.avPKgf>*:last-child{border-bottom-left-radius:4px}.EtOod>.qxDOhb>*:first-child{border-top-left-radius:8px;border-top-right-radius:8px}.EtOod>.qxDOhb>*:last-child{border-bottom-left-radius:8px;border-bottom-right-radius:8px}.fP1Qef{background:transparent !important;box-shadow:none !important;border:none !important}.Gx5Zad.fP1Qef{margin-top:-12px;margin-bottom:18px}.rl7ilb{display:block;clear:both}.egMi0{margin-bottom:-19px}.kCrYT{padding:12px 16px 12px}a.fdYsqf{color:#4b11a8}.sCuL3{position:absolute;width:100%;top:0;left:0;padding-top:1px;margin-bottom:-1px}.j039Wc{padding-top:28px;margin-bottom:-1px}.DnJfK{position:relative}.l97dzf{font-weight:400}.zBAuLc{line-height:normal;margin:0;padding:0}.BNeawe{white-space:pre-line;word-wrap:break-word}.vvjwJb{color:#1a0dab;font-size:20px;line-height:26px}a:visited .vvjwJb,.vvjwJb a:visited{color:#4b11a8}.vvjwJb.HrGdeb{color:#fff}a:visited .vvjwJb.HrGdeb,.vvjwJb.HrGdeb a:visited{color:rgba(255,255,255,.70)}.UPmit{font-size:14px;line-height:22px}.UPmit.HrGdeb{color:rgba(255,255,255,.70)}.UPmit.AP7Wnd{color:#202124}.lRVwie{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.Ap5OSd{padding-bottom:12px}.s3v9rd{font-size:14px;line-height:22px}.s3v9rd.HrGdeb{color:#fff}.s3v9rd.AP7Wnd{color:#202124}.mSx1Ee{padding-left:48px;margin:0}.v9i61e{padding-bottom:8px}.XLloXe{color:#1a0dab;font-size:14px;line-height:20px}a:visited .XLloXe,.XLloXe a:visited{color:#4b11a8}.XLloXe.HrGdeb{color:#fff}a:visited .XLloXe.HrGdeb,.XLloXe.HrGdeb a:visited{color:rgba(255,255,255,.70)}.K8tyEc{padding-bottom:12px}.mEUgP{font-weight:bold;font-size:16px;color:#000;margin:0;padding:12px 16px 0 16px}.FCUp0c{font-weight:bold}.x54gtf{height:1px;background-color:#dadce0;margin:0 16px}.Q0HXG{height:1px;background-color:#dadce0}.C7GS5b{margin-left:12px;display:table-cell;vertical-align:middle}.rkGIWe{padding:14px}.xpc .hwc,.xpx .hwx{display:none}.iIWm4b{box-sizing:border-box;min-height:48px}.fLtXsc{padding:14px;position:relative}.NtmAdb{width:40px;height:40px;overflow:hidden;margin-top:-10px;margin-bottom:-16px;margin-right:8px;border-radius:4px}.xpc .NtmAdb{display:inline-block}.xpx .NtmAdb{display:none}.Lt3Tzc{display:inline-block;padding-right:26px}.Lym8W{width:14px;height:20px;position:relative;margin:0 auto}.xCgLUe{position:absolute;right:16px;margin-top:-10px;top:50%}.Lym8W div{position:absolute;border-left:7px solid transparent;border-right:7px solid transparent;width:0;height:0;left:0}.IyYaEd{top:7px;border-top:7px solid #70757a}.ECUHQe{top:4px;border-top:7px solid #fff}.AeQQub{bottom:7px;border-bottom:7px solid #70757a}.YCU7eb{bottom:4px;border-bottom:7px solid #fff}.qxDOhb{border-radius:0}.yStFkb .xpd{border-radius:8px;box-shadow:none;border:1px solid #dadce0;margin-bottom:0}.oTWEpb{padding-top:12px}.n1Qedd{overflow:hidden;text-align:center}.KMAGC{margin:0 auto;display:block}.ho0sdc{margin:0 -50%;display:inline-block}.Xb5VRe{color:#1a0dab}a:visited .Xb5VRe{color:#4b11a8}.Xb5VRe.tr0dw{color:#fff}a:visited .Xb5VRe.tr0dw{color:rgba(255,255,255,.70)}.P1NWSe{display:table;width:100%;padding-top:16px;padding-bottom:16px;margin-bottom:-12px}.wOMIed{display:table-cell;vertical-align:top}.nkPlDb{vertical-align:middle}.JhFlyf{color:#3c4043;font-size:14px;text-align:center}.VQFmSd{display:block;white-space:pre-line;word-wrap:break-word}.JhFlyf.VQFmSd{line-height:22px}.f4J0H{padding:18px}.r0bn4c.tr0dw{color:rgba(255,255,255,.70)}.r0bn4c.rQMQod{color:#70757a}.nGphre{float:right;padding-left:16px}.UykT9d{border-radius:8px;display:block}.nYT7Qb{clear:both}.deIvCb{font-size:16px;line-height:20px;font-weight:400}.deIvCb.HrGdeb{color:#fff}.deIvCb.AP7Wnd{color:#202124}.tAd8D{font-size:14px;line-height:20px}.tAd8D.HrGdeb{color:rgba(255,255,255,.70)}.tAd8D.AP7Wnd{color:#70757a}.Xdlr0d{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 -8px;padding:2px 0 16px 24px;margin-top:-2px;transform:translate3d(0,0,0)}.idg8be{display:table;border-collapse:separate;border-spacing:8px 0;margin:0 -8px;padding-right:16px}.BVG0Nb{display:table-cell;vertical-align:top;background-color:#fff;border-radius:8px;box-shadow:0 0 0 1px #dfe1e5;overflow:hidden}.WddBJd{display:block;margin:0 auto}.RJI4s{vertical-align:middle}.mHhylf{display:table-cell;vertical-align:middle}.WZ5GJf{align-items:center;padding:0 20px;min-width:112px}.qN9Ked,.DXk5Me{margin:0 auto}.DXk5Me{cursor:pointer;margin-bottom:12px}.Dk7jOe{display:block;margin:0 auto}.Qi9Fd{background:#fff;border:0;border-radius:999px;display:block;height:56px;justify-content:center;width:56px;z-index:0}.Qi9Fd{box-shadow:0 0 0 1px #dfe1e5,inset 0 0 0 0 rgba(0,0,0,.1),inset 0 0 0 0 rgba(255,255,255,.5)}.Qi9Fd:focus{outline:none}.Qi9Fd .hWHuJ{display:block;margin:0 auto}.ji5jpf{text-align:center}.skVgpb{display:table;table-layout:fixed;width:100%}.VGHMXd{display:table-cell;vertical-align:middle;height:52px;text-align:center}.LpaDrb{margin:0 auto 8px;display:block}.vbShOe{padding-top:0}.AVsepf{padding-bottom:8px}.AVsepf.u2x1Od{padding-bottom:0}hr{border:0;border-bottom:1px solid #dadce0;margin:0}.BUybKe,.HsnFBf{margin-left:16px;}.BUybKe,.oM2GA{margin-right:16px;}.XO7rhc{margin-right:-16px;margin-left:-16px}.ZM7ZNb{margin-right:-16px}.gGQDvd{padding:14px;position:relative}.Q71vJc{display:block;position:relative;width:100%}.kjGX2{position:absolute;left:48px;right:0;vertical-align:bottom;display:inline-block;color:#4d5156}.ieB2Dd{overflow:hidden;margin-top:-10px;margin-bottom:-16px;margin-right:8px;border-radius:4px;display:inline-block;border-radius:50%;padding:10px}.OEaqif{width:20px;height:20px;display:block}.rLshyf,.BmP5tf{padding-top:12px;padding-bottom:12px}.YOx3Ab{padding-left:16px;}.w1C3Le,.BmP5tf,.G5NbBd,.CS4w5b{padding-left:16px;padding-right:16px;}.G5NbBd{padding-bottom:12px}.CS4w5b{padding-top:12px}.nMymef{display:flex}.G5eFlf{flex:1;display:block}.nMymef span{text-align:center}.EYqSq{margin:6px 4px 9px 0;border-radius:100%;display:inline-block;height:10px;vertical-align:middle;width:10px}.dfB0uf{color:#3c4043;font-weight:bold}.IffyKc{word-wrap:break-word}
+   </style>
+   <div>
+   </div>
+   <div>
+    <div class="Gx5Zad fP1Qef xpd EtOod pkphOe">
+     <div class="egMi0 kCrYT">
+      <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAUQAg" href="/url?q=https://www.python.org/&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAUQAg&amp;usg=AOvVaw0hb-sORNn-5NQeaM7pbGRM">
+       <div class="DnJfK">
+        <div class="j039Wc">
+         <h3 class="zBAuLc l97dzf">
+          <div class="BNeawe vvjwJb AP7Wnd">
+           Welcome to Python.org
+          </div>
+         </h3>
+        </div>
+        <div class="sCuL3">
+         <div class="BNeawe UPmit AP7Wnd lRVwie">
+          www.python.org
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div class="v9i61e">
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Functions Defined · Get Started. Whether you're new to programming or an experienced developer, it's easy to learn and use Python. · Download. Python source ...
+          </div>
+         </div>
+         <div>
+          <div class="v9i61e">
+           <div class="BNeawe s3v9rd AP7Wnd">
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjBB6BAgFEAU" href="/url?q=https://www.python.org/downloads/&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjBB6BAgFEAU&amp;usg=AOvVaw148nZ2-bKdhfK0EuAf5iJt">
+              <span class="XLloXe AP7Wnd">
+               Downloads
+              </span>
+             </a>
+            </span>
+           </div>
+          </div>
+          <div class="v9i61e">
+           <div class="BNeawe s3v9rd AP7Wnd">
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjBB6BAgFEAc" href="/url?q=https://www.python.org/about/gettingstarted/&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjBB6BAgFEAc&amp;usg=AOvVaw1n0ueHjXsbAV0f8n9_GZFU">
+              <span class="XLloXe AP7Wnd">
+               Python For Beginners
+              </span>
+             </a>
+            </span>
+           </div>
+          </div>
+          <div class="v9i61e">
+           <div class="BNeawe s3v9rd AP7Wnd">
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjBB6BAgFEAk" href="/url?q=https://docs.python.org/3/tutorial/index.html&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjBB6BAgFEAk&amp;usg=AOvVaw0kzOEPuAYJVgUzCByTNT4Q">
+              <span class="XLloXe AP7Wnd">
+               The Python Tutorial
+              </span>
+             </a>
+            </span>
+           </div>
+          </div>
+          <div>
+           <div class="BNeawe s3v9rd AP7Wnd">
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjBB6BAgFEAs" href="/url?q=https://www.python.org/doc/&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjBB6BAgFEAs&amp;usg=AOvVaw20y3SWEN0UM5BgMYuXUuRH">
+              <span class="XLloXe AP7Wnd">
+               Documentation
+              </span>
+             </a>
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad fP1Qef xpd EtOod pkphOe">
+     <div class="egMi0 kCrYT">
+      <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAgQAg" href="/url?q=https://www.w3schools.com/python/&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAgQAg&amp;usg=AOvVaw13NwhVguORIHYT4NhW65lj">
+       <div class="DnJfK">
+        <div class="j039Wc">
+         <h3 class="zBAuLc l97dzf">
+          <div class="BNeawe vvjwJb AP7Wnd">
+           Python Tutorial - W3Schools
+          </div>
+         </h3>
+        </div>
+        <div class="sCuL3">
+         <div class="BNeawe UPmit AP7Wnd lRVwie">
+          www.w3schools.com › python
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Learn Python. Python is a popular programming language. Python can be used on a server to create web applications. Start learning Python now » ...
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad xpd EtOod pkphOe">
+     <div class="K8tyEc">
+      <div class="mEUgP">
+       <span>
+        <div class="BNeawe">
+         <span class="FCUp0c rQMQod">
+          People also ask
+         </span>
+        </div>
+       </span>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="xpc">
+       <div class="duf-h">
+        <div aria-expanded="false" class="fLtXsc iIWm4b" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQuk56BAgGEAI" id="tsuid_1" role="button" tabindex="0">
+         <div class="Lt3Tzc">
+          What is Python used for?
+         </div>
+         <div class="Lym8W xCgLUe">
+          <div class="AeQQub hwc">
+          </div>
+          <div class="YCU7eb hwc">
+          </div>
+          <div class="IyYaEd hwx">
+          </div>
+          <div class="ECUHQe hwx">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="qxDOhb" id="accdef_1">
+       </div>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="xpc">
+       <div class="duf-h">
+        <div aria-expanded="false" class="fLtXsc iIWm4b" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQuk56BAgGEAk" id="tsuid_2" role="button" tabindex="0">
+         <div class="Lt3Tzc">
+          Can I learn, Python in a month?
+         </div>
+         <div class="Lym8W xCgLUe">
+          <div class="AeQQub hwc">
+          </div>
+          <div class="YCU7eb hwc">
+          </div>
+          <div class="IyYaEd hwx">
+          </div>
+          <div class="ECUHQe hwx">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="qxDOhb" id="accdef_3">
+       </div>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="xpc">
+       <div class="duf-h">
+        <div aria-expanded="false" class="fLtXsc iIWm4b" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQuk56BAgGEBA" id="tsuid_3" role="button" tabindex="0">
+         <div class="Lt3Tzc">
+          What is Python with example?
+         </div>
+         <div class="Lym8W xCgLUe">
+          <div class="AeQQub hwc">
+          </div>
+          <div class="YCU7eb hwc">
+          </div>
+          <div class="IyYaEd hwx">
+          </div>
+          <div class="ECUHQe hwx">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="qxDOhb" id="accdef_5">
+       </div>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="xpc">
+       <div class="duf-h">
+        <div aria-expanded="false" class="fLtXsc iIWm4b" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQuk56BAgGEBc" id="tsuid_4" role="button" tabindex="0">
+         <div class="Lt3Tzc">
+          Why is it called a Python?
+         </div>
+         <div class="Lym8W xCgLUe">
+          <div class="AeQQub hwc">
+          </div>
+          <div class="YCU7eb hwc">
+          </div>
+          <div class="IyYaEd hwx">
+          </div>
+          <div class="ECUHQe hwx">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="qxDOhb" id="accdef_7">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad fP1Qef xpd EtOod pkphOe">
+     <div class="egMi0 kCrYT">
+      <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAMQAg" href="/url?q=https://en.wikipedia.org/wiki/Python_(programming_language)&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAMQAg&amp;usg=AOvVaw2FnURPdFHrlQnCI_mo3Yjo">
+       <div class="DnJfK">
+        <div class="j039Wc">
+         <h3 class="zBAuLc l97dzf">
+          <div class="BNeawe vvjwJb AP7Wnd">
+           Python (programming language) - Wikipedia
+          </div>
+         </h3>
+        </div>
+        <div class="sCuL3">
+         <div class="BNeawe UPmit AP7Wnd lRVwie">
+          en.wikipedia.org › wiki › Python_(programming_language)
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad fP1Qef xpd EtOod pkphOe">
+     <div class="egMi0 kCrYT">
+      <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAcQAg" href="/url?q=https://www.geeksforgeeks.org/python-programming-language/&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAcQAg&amp;usg=AOvVaw0vkhMOsAAQNpOX3OuXOOkd">
+       <div class="DnJfK">
+        <div class="j039Wc">
+         <h3 class="zBAuLc l97dzf">
+          <div class="BNeawe vvjwJb AP7Wnd">
+           Python Tutorial | Learn Python Programming - GeeksforGeeks
+          </div>
+         </h3>
+        </div>
+        <div class="sCuL3">
+         <div class="BNeawe UPmit AP7Wnd lRVwie">
+          www.geeksforgeeks.org › python-programming-language
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           <span class="r0bn4c rQMQod">
+            26 Dec 2023
+           </span>
+           <span class="r0bn4c rQMQod">
+            ·
+           </span>
+           This Python tutorial is well-suited for beginners as well as professionals, covering basic to advanced concepts of the Python programming ...
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad xpd EtOod pkphOe">
+     <div class="kCrYT">
+      <span>
+       <h3 class="zBAuLc l97dzf">
+        <div class="BNeawe deIvCb AP7Wnd">
+         Python
+        </div>
+       </h3>
+      </span>
+      <span>
+       <div class="BNeawe tAd8D AP7Wnd">
+        High-level programming language
+       </div>
+      </span>
+     </div>
+     <div>
+      <div>
+       <div>
+        <div class="Xdlr0d">
+         <div class="idg8be">
+          <a class="BVG0Nb" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ9QF6BAgKEAQ" href="/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png&amp;imgrefurl=https://en.wikipedia.org/wiki/Python_(programming_language)&amp;h=800&amp;w=800&amp;tbnid=hs-cfTjLDWwuFM&amp;q=python&amp;tbnh=225&amp;tbnw=225&amp;usg=AI4_-kSvdkSeTD0tHCXIftaNsBJx1GY_0Q&amp;vet=1&amp;docid=3wRBXLyvECcz0M&amp;itg=1&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ9QF6BAgKEAQ">
+           <div>
+            <img alt="upload.wikimedia.org/wikipedia/commons/thumb/c/c3/..." class="WddBJd" data-deferred="1" id="dimg_17" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:none;height:128px;max-height:128px"/>
+           </div>
+          </a>
+          <a class="BVG0Nb" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ9QF6BAgKEAY" href="/imgres?imgurl=https://python.rs/pylogo.png&amp;imgrefurl=https://www.python.org/&amp;h=203&amp;w=601&amp;tbnid=OO5BXHlBkMORMM&amp;q=python&amp;tbnh=46&amp;tbnw=135&amp;usg=AI4_-kSYu7PTocAKOQFikLmSuaCIBb4G_Q&amp;vet=1&amp;docid=Fvb7Gz_c4rwxjM&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ9QF6BAgKEAY">
+           <div>
+            <img alt="Welcome to Python.org" class="WddBJd" data-deferred="1" id="dimg_19" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:none;height:128px;max-height:128px"/>
+           </div>
+          </a>
+          <a class="BVG0Nb" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ9QF6BAgKEAg" href="/imgres?imgurl=https://www.python.org/static/img/python-logo@2x.png&amp;imgrefurl=https://www.python.org/&amp;h=164&amp;w=580&amp;tbnid=6gL-m2EeEpxmGM&amp;q=python&amp;tbnh=38&amp;tbnw=134&amp;usg=AI4_-kRGvALC2SlcVkfSpuEQd9xTdMgAtQ&amp;vet=1&amp;docid=Fvb7Gz_c4rwxjM&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ9QF6BAgKEAg">
+           <div>
+            <img alt="Welcome to Python.org" class="WddBJd" data-deferred="1" id="dimg_21" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:none;height:128px;max-height:128px"/>
+           </div>
+          </a>
+          <a class="BVG0Nb" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ9QF6BAgKEAo" href="/imgres?imgurl=https://i.ytimg.com/vi/WvhQhj4n6b8/maxresdefault.jpg&amp;imgrefurl=https://m.youtube.com/watch?v%3DWvhQhj4n6b8&amp;h=720&amp;w=1280&amp;tbnid=4ZNsqXEECsj39M&amp;q=python&amp;tbnh=84&amp;tbnw=150&amp;usg=AI4_-kSQYfEtiv0ChQ5f3LVqe9vhojKT1g&amp;vet=1&amp;docid=5jfQJfg5JhrpMM&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ9QF6BAgKEAo">
+           <div>
+            <img alt="What is Python? | Python Programming For Beginners | Python ..." class="WddBJd" data-deferred="1" id="dimg_23" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:none;height:128px;max-height:128px"/>
+           </div>
+          </a>
+          <div class="mHhylf">
+           <div class="WZ5GJf">
+            <a class="qN9Ked" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ7Al6BAgKEAw" href="https://www.google.com/search?sca_esv=598359895&amp;ei=tsqjZfDBB-Tp4-EPgq-b2A8&amp;q=python&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ7Al6BAgKEAw">
+             <button class="DXk5Me Qi9Fd" tabindex="-1">
+              <span class="hWHuJ">
+               <img alt="" class="Dk7jOe" data-deferred="1" id="dimg_25" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:24px;max-height:24px"/>
+              </span>
+             </button>
+             <div class="BNeawe ji5jpf tAd8D AP7Wnd">
+              View all
+             </div>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="xpc">
+      <div>
+       <div class="Q0HXG">
+       </div>
+       <div class="kCrYT">
+        <div>
+         <div class="BNeawe s3v9rd AP7Wnd">
+          <div>
+           <div class="BNeawe s3v9rd AP7Wnd">
+            Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+Python is dynamically typed and garbage-collected. It supports multiple programming paradigms,...
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmhN6BAgKEA4" href="/url?q=https://en.wikipedia.org/wiki/Python_(programming_language)&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmhN6BAgKEA4&amp;usg=AOvVaw3mlMPupXKwN9ejzaIqR8zj">
+              <span class="XLloXe AP7Wnd">
+               Wikipedia
+              </span>
+             </a>
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vbShOe kCrYT">
+        <div class="AVsepf">
+         <div class="BNeawe s3v9rd AP7Wnd">
+          <span>
+           <span class="BNeawe s3v9rd AP7Wnd">
+            Designed by
+           </span>
+          </span>
+          :
+          <span>
+           <span class="BNeawe tAd8D AP7Wnd">
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBA" href="/search?sca_esv=598359895&amp;q=Guido+van+Rossum&amp;si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXlKmG8xruDFP-Vhw21BQrJqFWSVzQhSdTzoxPXxuDUrX7nSDaqcBaNiLVcW_-VTaWpczxRcSSnLswsSdvZq5XqtyEOW5E4dNqyvJnXp_Q01CJENcezSXyDJwlNCEmb5uFifga8d75pPR7YxC4mITRoJ8oZr0jJKfoDto0OpNTBqHPWRTzA%3D%3D&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBA">
+              <span class="XLloXe AP7Wnd">
+               Guido van Rossum
+              </span>
+             </a>
+            </span>
+           </span>
+          </span>
+         </div>
+        </div>
+        <div class="AVsepf">
+         <div class="BNeawe s3v9rd AP7Wnd">
+          <span>
+           <span class="BNeawe s3v9rd AP7Wnd">
+            Developer
+           </span>
+          </span>
+          :
+          <span>
+           <span class="BNeawe tAd8D AP7Wnd">
+            Python Software Foundation
+           </span>
+          </span>
+         </div>
+        </div>
+        <div class="AVsepf">
+         <div class="BNeawe s3v9rd AP7Wnd">
+          <span>
+           <span class="BNeawe s3v9rd AP7Wnd">
+            First appeared
+           </span>
+          </span>
+          :
+          <span>
+           <span class="BNeawe tAd8D AP7Wnd">
+            20 February 1991; 32 years ago
+           </span>
+          </span>
+         </div>
+        </div>
+        <div class="AVsepf">
+         <div class="BNeawe s3v9rd AP7Wnd">
+          <span>
+           <span class="BNeawe s3v9rd AP7Wnd">
+            OS
+           </span>
+          </span>
+          :
+          <span>
+           <span class="BNeawe tAd8D AP7Wnd">
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBQ" href="/search?sca_esv=598359895&amp;q=Windows&amp;stick=H4sIAAAAAAAAAOPgE-LQz9U3MK0yjFcCs0yK4i20-IuLrfTLU5PSEpNLiq3yixexsodn5qXklxcDAIMXZSIxAAAA&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBQ">
+              <span class="XLloXe AP7Wnd">
+               Windows
+              </span>
+             </a>
+            </span>
+            ,
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBU" href="/search?sca_esv=598359895&amp;q=macOS&amp;stick=H4sIAAAAAAAAAOPgE-LQz9U3MK0yjFeCsEwri7T4i4ut9MtTk9ISk0uKrfKLF7Gy5iYm-wcDAFc3wQUvAAAA&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBU">
+              <span class="XLloXe AP7Wnd">
+               macOS
+              </span>
+             </a>
+            </span>
+            ,
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBY" href="/search?sca_esv=598359895&amp;q=Linux&amp;stick=H4sIAAAAAAAAAOPgE-LQz9U3MK0yjFfiBLHSCqqqCrT4i4ut9MtTk9ISk0uKrfKLF7Gy-mTmlVYAANFHIoIwAAAA&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBY">
+              <span class="XLloXe AP7Wnd">
+               Linux
+              </span>
+             </a>
+            </span>
+            /
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBc" href="/search?sca_esv=598359895&amp;q=UNIX&amp;stick=H4sIAAAAAAAAAOPgE-LQz9U3MK0yjFfiBLHSCqqqCrT4i4ut9MtTk9ISk0uKrfKLF7GyhPp5RgAA2O-wly8AAAA&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBc">
+              <span class="XLloXe AP7Wnd">
+               UNIX
+              </span>
+             </a>
+            </span>
+            ,
+            <span class="BNeawe">
+             <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBg" href="/search?sca_esv=598359895&amp;q=Android&amp;stick=H4sIAAAAAAAAAOPgE-LQz9U3MK0yjFfiArGMyitK0su1-IuLrfTLU5PSEpNLiq3yixexsjvmpRTlZ6YAAKHn8OEzAAAA&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQmxN6BAgKEBg">
+              <span class="XLloXe AP7Wnd">
+               Android
+              </span>
+             </a>
+            </span>
+            and a few other platforms
+           </span>
+          </span>
+         </div>
+        </div>
+        <div class="AVsepf hwc">
+         <div class="BNeawe s3v9rd AP7Wnd">
+          <span>
+           <span class="BNeawe s3v9rd AP7Wnd">
+            Paradigm
+           </span>
+          </span>
+          :
+          <span>
+           <span class="BNeawe tAd8D AP7Wnd">
+            Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective
+           </span>
+          </span>
+         </div>
+        </div>
+        <div class="AVsepf u2x1Od hwc">
+         <div class="BNeawe s3v9rd AP7Wnd">
+          <span>
+           <span class="BNeawe s3v9rd AP7Wnd">
+            Stable release
+           </span>
+          </span>
+          :
+          <span>
+           <span class="BNeawe tAd8D AP7Wnd">
+            3.12.1 / 7 December 2023; 38 days ago
+           </span>
+          </span>
+         </div>
+        </div>
+       </div>
+       <hr/>
+      </div>
+      <div class="duf-h">
+       <div aria-expanded="false" class="fLtXsc iIWm4b" id="tsuid_5" role="button" style="text-align:center" tabindex="0">
+        <div class="Lym8W">
+         <div class="AeQQub hwc">
+         </div>
+         <div class="YCU7eb hwc">
+         </div>
+         <div class="IyYaEd hwx">
+         </div>
+         <div class="ECUHQe hwx">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad fP1Qef xpd EtOod pkphOe">
+     <div class="egMi0 kCrYT">
+      <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAIQAg" href="/url?q=https://www.programiz.com/python-programming/online-compiler/&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAIQAg&amp;usg=AOvVaw2hZd38mlATRTxnj1sd7ksS">
+       <div class="DnJfK">
+        <div class="j039Wc">
+         <h3 class="zBAuLc l97dzf">
+          <div class="BNeawe vvjwJb AP7Wnd">
+           Online Python Compiler (Interpreter) - Programiz
+          </div>
+         </h3>
+        </div>
+        <div class="sCuL3">
+         <div class="BNeawe UPmit AP7Wnd lRVwie">
+          www.programiz.com › python-programming › online-compiler
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Write and run Python code using our online compiler (interpreter). You can use Python Shell like IDLE, and take inputs from the user in our Python compiler.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad fP1Qef xpd EtOod pkphOe">
+     <div class="egMi0 kCrYT">
+      <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAEQAg" href="/url?q=https://www.codecademy.com/learn/learn-python&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAEQAg&amp;usg=AOvVaw3rrFWBOVt3tx4BQ_J74bu7">
+       <div class="DnJfK">
+        <div class="j039Wc">
+         <h3 class="zBAuLc l97dzf">
+          <div class="BNeawe vvjwJb AP7Wnd">
+           Learn Python 2 - Codecademy
+          </div>
+         </h3>
+        </div>
+        <div class="sCuL3">
+         <div class="BNeawe UPmit AP7Wnd lRVwie">
+          www.codecademy.com › learn › learn-python
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Python is a general-purpose, versatile and popular programming language. It's great as a first language because it is concise and easy to read, ...
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad fP1Qef xpd EtOod pkphOe">
+     <div class="egMi0 kCrYT">
+      <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAkQAg" href="/url?q=https://www.codecademy.com/catalog/language/python&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAkQAg&amp;usg=AOvVaw2jUoUqdGc-ethZZ9U27oWd">
+       <div class="DnJfK">
+        <div class="j039Wc">
+         <h3 class="zBAuLc l97dzf">
+          <div class="BNeawe vvjwJb AP7Wnd">
+           Python Courses &amp; Tutorials - Codecademy
+          </div>
+         </h3>
+        </div>
+        <div class="sCuL3">
+         <div class="BNeawe UPmit AP7Wnd lRVwie">
+          www.codecademy.com › catalog › language › python
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Start your coding journey with Python courses and tutorials. From basic to advanced projects, grow your Python skills at Codecademy.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad fP1Qef xpd EtOod pkphOe">
+     <div class="egMi0 kCrYT">
+      <a data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAQQAg" href="/url?q=https://www.tutorialspoint.com/python/index.htm&amp;sa=U&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAQQAg&amp;usg=AOvVaw1kBXHJ5O4rnb_Aae_rRhn9">
+       <div class="DnJfK">
+        <div class="j039Wc">
+         <h3 class="zBAuLc l97dzf">
+          <div class="BNeawe vvjwJb AP7Wnd">
+           Python Tutorial - Tutorialspoint
+          </div>
+         </h3>
+        </div>
+        <div class="sCuL3">
+         <div class="BNeawe UPmit AP7Wnd lRVwie">
+          www.tutorialspoint.com › python
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage ...
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="Gx5Zad xpd EtOod pkphOe">
+     <div class="K8tyEc">
+      <div class="mEUgP">
+       <span>
+        <div class="BNeawe">
+         Related searches
+        </div>
+       </span>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAI" href="/search?sca_esv=598359895&amp;q=Python+download&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAI">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd">
+          <img alt="" class="OEaqif" data-deferred="1" id="dimg_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px"/>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Python download
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAQ" href="/search?sca_esv=598359895&amp;q=Python+online&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAQ">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd">
+          <img alt="" class="OEaqif" data-deferred="1" id="dimg_3" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px"/>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Python online
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAY" href="/search?sca_esv=598359895&amp;q=Python+compiler&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAY">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd">
+          <img alt="" class="OEaqif" data-deferred="1" id="dimg_5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px"/>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Python compiler
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAg" href="/search?sca_esv=598359895&amp;q=W3schools+Python&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAg">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd">
+          <img alt="" class="OEaqif" data-deferred="1" id="dimg_7" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px"/>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           W3schools Python
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAo" href="/search?sca_esv=598359895&amp;q=Python+tutorial&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAo">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd">
+          <img alt="" class="OEaqif" data-deferred="1" id="dimg_9" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px"/>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Python tutorial
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAw" href="/search?sca_esv=598359895&amp;q=Python+operator&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEAw">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd">
+          <img alt="" class="OEaqif" data-deferred="1" id="dimg_11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px"/>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Python operator
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEA4" href="/search?sca_esv=598359895&amp;q=Python+code&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEA4">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd">
+          <img alt="" class="OEaqif" data-deferred="1" id="dimg_13" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px"/>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Python code
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div>
+      <div class="gGQDvd iIWm4b">
+       <a class="Q71vJc" data-ved="2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEBA" href="/search?sca_esv=598359895&amp;q=Python+programming+for+beginners&amp;sa=X&amp;ved=2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ1QJ6BAgAEBA">
+        <accordion-entry-search-icon>
+         <span class="ieB2Dd">
+          <img alt="" class="OEaqif" data-deferred="1" id="dimg_15" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:20px;max-height:20px"/>
+         </span>
+        </accordion-entry-search-icon>
+        <div class="kjGX2">
+         <span>
+          <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+           Python programming for beginners
+          </div>
+         </span>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer>
+    <div>
+     <div class="Gx5Zad xpd EtOod pkphOe BmP5tf">
+      <div class="nMymef Va3FIb lVm3ye">
+       <a aria-label="Next page" class="nBDE1b G5eFlf" href="/search?q=python&amp;sca_esv=598359895&amp;ei=tsqjZfDBB-Tp4-EPgq-b2A8&amp;start=10&amp;sa=N">
+        Next &gt;
+       </a>
+      </div>
+     </div>
+    </div>
+    <div id="EOlPnc">
+     <div class="Srfpq">
+      <div>
+       <span class="EYqSq unknown_loc">
+       </span>
+       <span class="dfB0uf">
+        Jogeshwari West, Mumbai, Maharashtra
+       </span>
+      </div>
+      <span>
+       From your IP address
+      </span>
+      <span>
+       -
+      </span>
+      <a aria-label="Learn more about this location" class="IffyKc" href="/url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den-IN&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQty4IigE&amp;usg=AOvVaw17A0Z_rj8KzjGlU0M5xV-c" tabindex="0">
+       Learn more
+      </a>
+     </div>
+     <div>
+      <a href="/url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fq%253Dpython%26hl%3Den&amp;opi=89978449&amp;sa=U&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQxs8CCIsB&amp;usg=AOvVaw35lQdiLfWHt8N_oGsJTbL9">
+       Sign in
+      </a>
+     </div>
+     <div>
+      <a class="xeDNfc" href="https://www.google.com/preferences?hl=en-IN&amp;fg=1&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQ5fUCCIwB">
+       Settings
+      </a>
+      <a class="xeDNfc" href="https://policies.google.com/privacy?hl=en-IN&amp;fg=1">
+       Privacy
+      </a>
+      <a class="xeDNfc" href="https://policies.google.com/terms?hl=en-IN&amp;fg=1">
+       Terms
+      </a>
+      <a class="xeDNfc" href="/setprefs?hl=en&amp;prev=https://www.google.com/search?q%3Dpython%26pccc%3D1&amp;sig=0_xxjSBFj-ijJWjMTn6N1TC6G6bZI%3D&amp;cs=2&amp;sa=X&amp;ved=0ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQjcAJCI0B">
+       Dark theme: Off
+      </a>
+     </div>
+    </div>
+   </footer>
+   <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+    (function(){var hl='en-IN';(function(){
+var f=this||self,g=function(a){return a};var h,k=function(){if(void 0===h){var a=null,b=f.trustedTypes;if(b&&b.createPolicy){try{a=b.createPolicy("goog#html",{createHTML:g,createScript:g,createScriptURL:g})}catch(c){f.console&&f.console.error(c.message)}h=a}else h=a}return h};var p=function(a,b){this.g=a===l&&b||"";this.h=m};p.prototype.toString=function(){return this.g};var q=function(a){return a instanceof p&&a.constructor===p&&a.h===m?a.g:"type_error:Const"},m={},l={};var r=function(a){this.g=a};r.prototype.toString=function(){return this.g+""};var t=function(a){return a instanceof r&&a.constructor===r?a.g:"type_error:TrustedResourceUrl"},x=function(){var a={},b=q(new p(l,"/complete/search"));if(!u.test(b))throw Error("e`"+b);var c=b.replace(v,function(e,d){if(!Object.prototype.hasOwnProperty.call(a,d))throw Error("f`"+d+"`"+b+"`"+JSON.stringify(a));e=a[d];return e instanceof p?q(e):encodeURIComponent(String(e))});return w(c)},v=/%{(\w+)}/g,u=RegExp("^((https:)?//[0-9a-z.:[\\]-]+/|/[^/\\\\]|[^:/\\\\%]+/|[^:/\\\\%]*[?#]|about:blank#)","i"),y=/^([^?#]*)(\?[^#]*)?(#[\s\S]*)?/,z={},w=function(a){var b=k();a=b?b.createScriptURL(a):a;return new r(a,z)},A=function(a,b,c){if(null==c)return b;if("string"===typeof c)return c?a+encodeURIComponent(c):"";for(var e in c)if(Object.prototype.hasOwnProperty.call(c,e)){var d=c[e];d=Array.isArray(d)?d:[d];for(var n=0;n<d.length;n++){var O=d[n];null!=O&&(b||(b=a),b+=(b.length>a.length?"&":"")+encodeURIComponent(e)+"="+encodeURIComponent(String(O)))}}return b};var B={},C=function(a){this.g=a};C.prototype.toString=function(){return this.g.toString()};
+function D(a,b){if(1===a.nodeType){var c=a.tagName;if("SCRIPT"===c||"STYLE"===c)throw Error("g");}a.innerHTML=b instanceof C&&b.constructor===C?b.g:"type_error:SafeHtml"};function E(a){a=null===a?"null":void 0===a?"undefined":a;var b=k();a=b?b.createHTML(a):a;return new C(a,B)};var F=document.querySelector(".l"),G=document.querySelector("#sf"),H=G.querySelector(".sbc"),I=G.querySelector("[type=text]"),J=G.querySelector("[type=submit]"),K=G.querySelector(".sc"),L=G.querySelector(".x"),M=I.value,N=[],P=-1,Q=M,R,S,T;M||(L&&(L.style.display="none"),U(!1));function U(a){if(H.classList.contains("esbc")){var b=H.classList.contains("chsbc"),c=H.classList.contains("rtlsbc");a&&(K.style.display="block",b?(G.style.borderRadius="20px 20px 0 0",K.style.borderBottom="1px solid #DFE1E5",J.style.borderRadius=c?"20px 0 0 0":"0 20px 0 0"):H.style.borderRadius=c?"0 8px 0 0":"8px 0 0 0");a||(K.style.display="none",b?(G.style.borderRadius="20px",K.style.borderBottom="none",J.style.borderRadius=c?"20px 0 0 20px":"0 20px 20px 0"):H.style.borderRadius=c?"0 8px 8px 0":"8px 0 0 8px")}}function V(){G.querySelector("[name=oq]").value=Q;G.querySelector("[name=aqs]").value="heirloom-srp."+(0<=P?P:"")+"."+(0<N.length?"0l"+N.length:"")}
+function W(){R=null;if(S){var a={client:"heirloom-srp",hl:hl,json:"t",callback:"hS",q:S};"undefined"!==typeof ds&&ds&&(a.ds=ds);var b=document;var c="SCRIPT";"application/xhtml+xml"===b.contentType&&(c=c.toLowerCase());c=b.createElement(c);b=x();b=y.exec(t(b).toString());var e=b[3]||"";a=w(b[1]+A("?",b[2]||"",a)+A("#",e));c.src=t(a);var d,n;(d=(a=null==(n=(d=(c.ownerDocument&&c.ownerDocument.defaultView||window).document).querySelector)?void 0:n.call(d,"script[nonce]"))?a.nonce||a.getAttribute("nonce")||
+"":"")&&c.setAttribute("nonce",d);document.body.appendChild(c);S=null;R=setTimeout(W,500)}}function X(){for(;K.firstChild;)K.removeChild(K.firstChild);N=[];P=-1;U(!1)}function Y(){var a=K.querySelector(".scs");a&&(a.className="");0<=P?(a=K.childNodes[P],a.className="scs",M=a.textContent):M=Q;I.value=M}I.addEventListener("focus",function(){F&&(F.style.display="none")},!1);I.addEventListener("blur",function(){X();F&&(F.style.display="")},!1);I.addEventListener("keyup",function(a){M=I.value;T=!1;13===a.which?V():27===a.which?(X(),F&&(F.style.display=""),M=Q,I.value=M):40===a.which?(P++,P>=N.length&&(P=-1),Y()):38===a.which?(P--,-1>P&&(P=N.length-1),Y()):(a=M)?(L&&(L.style.display=""),S=a,R||W(),Q=a):(L&&(L.style.display="none"),U(!1),X(),Q="",T=!0)},!1);J.addEventListener("click",V,!1);L.addEventListener("click",function(){I.value="";L.style.display="none";U(!1)},!1);H.addEventListener("click",function(){I.focus()},!1);window.hS=function(a){if(!T){X();0===a[1].length&&U(!1);for(var b=0;b<a[1].length;b++){var c=a[1][b][0],e=document.createElement("div");D(e,E(c));e.addEventListener("mousedown",function(d){d.preventDefault();return!1},!1);c=c.replace(/<\/?b>/g,"");e.addEventListener("click",function(d){return function(){P=d;V();Y();X();G.submit()}}(b),!1);e.addEventListener("mouseover",function(d){return function(){P!==d&&(P=d,Y())}}(b),!1);K.appendChild(e);U(!0);N.push(c)}}};}).call(this);})();(function(){function b(a){for(a=a.target||a.srcElement;a&&"A"!==a.nodeName;)a=a.parentElement;a&&(a.href||"").match(/\/search.*[?&]tbm=isch/)&&(a.href+="&biw="+document.documentElement.clientWidth,a.href+="&bih="+document.documentElement.clientHeight)}document.addEventListener("click",b,!1);document.addEventListener("touchStart",b,!1);}).call(this);
+   </script>
+  </div>
+  <!-- cctlcm 5 cctlcm -->
+  <textarea class="csi" name="csi" style="display:none"></textarea>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){var e='tsqjZfDBB-Tp4-EPgq-b2A8';var sn='web';var timl=false;(function(){function B(a){if(!a||C(a))return 0;if(!a.getBoundingClientRect)return 1;var c=function(b){return b.getBoundingClientRect()};return D(a,c)?0:J(a,c)}function D(a,c){var b;a:{for(b=a;b&&null!==b;b=b.parentElement)if("hidden"===b.style.overflow||"G-EXPANDABLE-CONTENT"===b.tagName&&"hidden"===getComputedStyle(b).getPropertyValue("overflow"))break a;b=null}if(!b)return!1;a=c(a);c=c(b);return a.bottom<c.top||a.top>=c.bottom||a.right<c.left||a.left>=c.right}
+function C(a){return"none"===a.style.display?!0:document.defaultView&&document.defaultView.getComputedStyle?(a=document.defaultView.getComputedStyle(a),!!a&&("hidden"===a.visibility||"0px"===a.height&&"0px"===a.width)):!1}
+function J(a,c){var b=c(a);a=b.left+window.pageXOffset;c=b.top+window.pageYOffset;var f=b.width;b=b.height;var g=0;if(0>=b&&0>=f)return g;var q=window.innerHeight||document.documentElement.clientHeight;0>c+b?g=2:c>=q&&(g=4);if(0>a+f||a>=(window.innerWidth||document.documentElement.clientWidth))g|=8;g||(g=1,c+b>q&&(g|=4));return g};var K=e,L=sn,M="undefined"===typeof de?!0:!1!==de,N=[];function O(a,c,b){a="/gen_204?atyp=csi&s="+L+"&t="+a+("&lite=1&ei="+K+"&conn="+(window.navigator&&window.navigator.connection?window.navigator.connection.type:-1)+c);c="&rt=";for(var f in b)a+=""+c+f+"."+b[f],c=",";return a}function P(a){a={prt:a};window.wsrt&&(a.wsrt=window.wsrt);return a}function Q(a){window.ping?window.ping(a):(new Image).src=a}
+(function(){for(var a=(new Date).getTime()-window.start,c=P(a),b=0,f=0,g=0,q=document.getElementsByTagName("img"),r=M?"&biw="+window.innerWidth+"&bih="+window.innerHeight:"",E=function(){r+="&ima="+g;c.aft=b;Q(O("aft",r,c))},x=0,R=function(h,t,u){var n=h.src;h.onload=function(){u&&n&&n===h.src||(f=(new Date).getTime()-window.start,t&&++x===g&&(b=f,E()),h.onload=null)}},S=0,d=void 0;d=q[S++];){var v=B(d),p=!!(v&1);p&&++g;var l=d.hasAttribute("data-ilite"),w=d.hasAttribute("data-deferred"),F=d.hasAttribute("data-src")||
+d.hasAttribute("data-lzysrc"),y=!w&&!l&&F;N.push([v,w||l,y,!!(google.ldi&&d.id&&google.ldi[d.id])||l&&F]);l=(v=d.complete&&!w&&!(p&&y))&&Number(d.getAttribute("data-iml"))||0;v&&l?(p&&++x,l&&(d=l-window.start,p&&(b=Math.max(b,d)),f=Math.max(f,d))):R(d,p,w||y)}b||(b=a);f||(f=b);x===g&&E();google.rglh&&google.rglh();window.addEventListener("load",function(){window.setTimeout(function(){c.ol=(new Date).getTime()-window.start;timl&&(c.iml=f);var h=window.performance&&window.performance.timing;h&&(c.rqst=
+h.responseEnd-h.requestStart,c.rspt=h.responseEnd-h.responseStart);for(var t=h=0,u=0,n=0,G=0,H=0,T=0,k;k=N[T++];){var m=k[0],z=k[1],I=k[2];k=k[3];var U=0==m,V=m&8,A=m&1;m=!A&&m&4;A&&(z&&!k||++u,I&&++H);z&&(A&&k&&++h,m&&!k&&++t);U||V?I||++G:z||++n}r+="&ime="+u+"&imel="+H+("&imex="+n+"&imeh="+G)+("&imea="+h+"&imeb="+t);Q(O("all",r,c))},0)},!1)})();}).call(this);})();(function(){window.google=window.google||{};window.google.ishk=[];function a(){return window.scrollY+window.document.documentElement.clientHeight>=Math.max(document.body.scrollHeight,document.body.offsetHeight)}function b(){a()&&0===window.google.ishk.length&&(window.google.bs=!0,window.removeEventListener("scroll",b))}a()?window.google.bs=!0:(window.google.bs=!1,window.addEventListener("scroll",b));}).call(this);
+  </script>
+  <style>
+   .HbX59e{margin-left:0px}sentinel{}.r2fjmd{margin-bottom:0px;margin-top:0px}sentinel{}
+  </style>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   window._setImagesSrc=function(f,c){function h(a){a.onerror=function(){a.style.display="none"};a.setAttribute("data-deferred","2");"data:"!==c.substring(0,5)&&a.setAttribute("data-defe","1");a.src=c;var g;(null==(g=google.c)?0:g.di)&&a.decode()}for(var d=0;d<f.length;++d){var b=f[d],e=document.getElementById(b)||document.querySelector('img[data-iid="'+b+'"]');e?(b=void 0,(null==(b=google.c)?0:b.setup)&&google.c.setup(e),h(e)):(google.iir=google.iir||{},google.iir[b]=c)}};"undefined"===typeof window.google&&(window.google={});
+  </script>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){var s='data:image/jpeg;base64,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\x3d';var i=['dimg_17'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){var s='data:image/png;base64,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\x3d';var i=['dimg_19'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){var s='data:image/jpeg;base64,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';var i=['dimg_21'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){var s='data:image/jpeg;base64,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\x3d';var i=['dimg_23'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d';var i=['dimg_25'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABAUlEQVR4AWMYesChoYElLjkzPj4lY3d8csZjIL4MxPNjUzPcSTYsISFLAqj5NBD/h+LPQPwbiT87NCuLh2gDgRr2QzXuT0jNMoBYksARn5zuHJ+UcR0kB6RXE2VYXHJGOlTDZmzyIJcB5e+D1CSkZDgQNBAaZv+jU1JkcKpJygiGeZ0I76a/Byq8jU9NZFqaCNTA48SE33/iDcw8TIyBt0GKQTFN0Msp6f2EIyUpo57YSIlLSrMhIg0WCIBcCfXSdlzJBsheTHQ6jEnOUgEFOLaEDbMIlhZBOYrorAdJk+nroVnvPsSgdGdoOF7HZyhZ2XPoGQoqjbCpIbt0AiejIQMArVLI7k/DXFkAAAAASUVORK5CYII\x3d';var i=['dimg_1','dimg_3','dimg_5','dimg_7','dimg_9','dimg_11','dimg_13','dimg_15'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="lL62aX7u9dPXG5jQrWC_RQ">
+   (function(){var e='tsqjZfDBB-Tp4-EPgq-b2A8';(function(){var a=e;if(2===(window.performance&&window.performance.navigation&&window.performance.navigation.type)){var b="",c=[],d=void 0!==window.google&&void 0!==window.google.kOPI&&0!==window.google.kOPI?window.google.kOPI:null;null!=d&&c.push(["opi",d.toString()]);for(var f=0;f<c.length;f++){if(0===f||0<f)b+="&";b+=c[f][0]+"="+c[f][1]}window.ping("/gen_204?ct=backbutton&ei="+a+b)};}).call(this);})();(function(){var b=[function(){google.tick&&google.tick("load","dcl")}];google.dclc=function(a){b.length?b.push(a):a()};function c(){for(var a=b.shift();a;)a(),a=b.shift()}window.addEventListener?(document.addEventListener("DOMContentLoaded",c,!1),window.addEventListener("load",c,!1)):window.attachEvent&&window.attachEvent("onload",c);}).call(this);(function(){var b=function(a){var c=0;return function(){return c<a.length?{done:!1,value:a[c++]}:{done:!0}}};
+var e=this||self;var g,h;a:{for(var k=["CLOSURE_FLAGS"],l=e,n=0;n<k.length;n++)if(l=l[k[n]],null==l){h=null;break a}h=l}var p=h&&h[610401301];g=null!=p?p:!1;var q,r=e.navigator;q=r?r.userAgentData||null:null;function t(a){return g?q?q.brands.some(function(c){return(c=c.brand)&&-1!=c.indexOf(a)}):!1:!1}function u(a){var c;a:{if(c=e.navigator)if(c=c.userAgent)break a;c=""}return-1!=c.indexOf(a)};function v(){return g?!!q&&0<q.brands.length:!1}function w(){return u("Safari")&&!(x()||(v()?0:u("Coast"))||(v()?0:u("Opera"))||(v()?0:u("Edge"))||(v()?t("Microsoft Edge"):u("Edg/"))||(v()?t("Opera"):u("OPR"))||u("Firefox")||u("FxiOS")||u("Silk")||u("Android"))}function x(){return v()?t("Chromium"):(u("Chrome")||u("CriOS"))&&!(v()?0:u("Edge"))||u("Silk")}function y(){return u("Android")&&!(x()||u("Firefox")||u("FxiOS")||(v()?0:u("Opera"))||u("Silk"))};var z=v()?!1:u("Trident")||u("MSIE");y();x();w();Object.freeze(new function(){});Object.freeze(new function(){});var A=!z&&!w(),D=function(a){if(/-[a-z]/.test("ved"))return null;if(A&&a.dataset){if(y()&&!("ved"in a.dataset))return null;a=a.dataset.ved;return void 0===a?null:a}return a.getAttribute("data-"+"ved".replace(/([A-Z])/g,"-$1").toLowerCase())};var E=[],F=null;function G(a){a=a.target;var c=performance.now(),f=[],H=f.concat,d=E;if(!(d instanceof Array)){var m="undefined"!=typeof Symbol&&Symbol.iterator&&d[Symbol.iterator];if(m)d=m.call(d);else if("number"==typeof d.length)d={next:b(d)};else throw Error("a`"+String(d));for(var B=[];!(m=d.next()).done;)B.push(m.value);d=B}E=H.call(f,d,[c]);if(a&&a instanceof HTMLElement)if(a===F){if(c=4<=E.length)c=5>(E[E.length-1]-E[E.length-4])/1E3;if(c){c=google.getEI(a);a.hasAttribute("data-ved")?f=a?D(a)||"":"":f=(f=
+a.closest("[data-ved]"))?D(f)||"":"";f=f||"";if(a.hasAttribute("jsname"))a=a.getAttribute("jsname");else{var C;a=null==(C=a.closest("[jsname]"))?void 0:C.getAttribute("jsname")}google.log("rcm","&ei="+c+"&ved="+f+"&jsname="+(a||""))}}else F=a,E=[c]}window.document.addEventListener("DOMContentLoaded",function(){document.body.addEventListener("click",G)});}).call(this);var w=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};window.jsl=window.jsl||{};window.jsl.dh=function(a,b,m){try{var h=document.getElementById(a),e;if(!h&&(null==(e=google.stvsc)?0:e.dds)){e=[];var f=e.concat,c=google.stvsc.dds;if(c instanceof Array)var n=c;else{var p="undefined"!=typeof Symbol&&Symbol.iterator&&c[Symbol.iterator];if(p)var g=p.call(c);else if("number"==typeof c.length)g={next:w(c)};else throw Error(String(c)+" is not an iterable or ArrayLike");c=g;var q;for(g=[];!(q=c.next()).done;)g.push(q.value);n=g}var r=f.call(e,n);for(f=0;f<r.length&&!(h=r[f].getElementById(a));f++);}if(h)h.innerHTML=b,m&&m();else{var d={id:a,script:String(!!m),milestone:String(google.jslm||0)};google.jsla&&(d.async=google.jsla);var t=a.indexOf("_"),k=0<t?a.substring(0,t):"",u=document.createElement("div");u.innerHTML=b;var l=u.children[0];if(l&&(d.tag=l.tagName,d["class"]=String(l.className||null),d.name=String(l.getAttribute("jsname")),k)){a=[];var v=document.querySelectorAll('[id^="'+k+'_"]');for(b=0;b<v.length;++b)a.push(v[b].id);d.ids=a.join(",")}google.ml(Error(k?"Missing ID with prefix "+
+k:"Missing ID"),!1,d)}}catch(x){google.ml(x,!0,{"jsl.dh":!0})}};(function(){var x=false;google.jslm=x?2:1;})();(function(){(function(){google.csct={};google.csct.ps='AOvVaw1Oplo1Awmx1fuCa8PHoVDV\x26ust\x3d1705319478161058';})();})();(function(){(function(){google.csct.rd=true;})();})();(function(){(function(){google.csct.rl=true;})();})();(function(){window.xp=function(b){function f(k,g,h){return"xp"+("x"==g?"c":"x")+h}for(var c=/\bxp(x|c)(\d?)\b/,a=b;a;){var e=a.className,d=e.match(c);if(d){d="c"==d[1];a.className=e.replace(c,f);b&&b.setAttribute("aria-expanded",d);if(d)for(b=a.getElementsByTagName("img"),c=0;c<b.length;++c)if(a=b[c],e=a.getAttribute("data-ll"))a.src=e,a.removeAttribute("data-ll");break}a=a.parentElement}};})();(function(){(function(){window.logVe=function(a){a&&a.attributes["data-ved"]&&window.ping("/gen_204?ved="+a.attributes["data-ved"].value)};}).call(this);})();(function(){(function(){var id='tsuid_1';var lve=true;(function(){var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl=window.jsl||{};window.jsl.dh=window.jsl.dh||function(i,c,d){try{var e=document.getElementById(i);if(e){e.innerHTML=c;if(d){d();}}else{if(window.jsl.el){window.jsl.el(new Error('Missing ID.'),{'id':i});}}}catch(e){if(window.jsl.el){window.jsl.el(new Error('jsl.dh'));}}};})();(function(){window.jsl.dh('accdef_1','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22Gx5Zad xpd EtOod pkphOe\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3ePython is commonly used for \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3edeveloping websites and software, task automation, data analysis, and data visualisation\x3c/span\x3e. Since it\x27s relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.coursera.org/in/articles/what-is-python-used-for-a-beginners-guide-to-using-python\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAYQBg\x26amp;usg\x3dAOvVaw3i_4ysHqjoFOc_Sh6W9NCO\x22 data-ved\x3d\x222ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAYQBg\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22rQMQod Xb5VRe\x22\x3eWhat Is Python Used For? A Beginner\x27s Guide - Coursera\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.coursera.org \u203a articles \u203a what-is-python-used-for-a-beginners-guide-t...\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com/search?sca_esv\x3d598359895\x26amp;ei\x3dtsqjZfDBB-Tp4-EPgq-b2A8\x26amp;q\x3dWhat+is+Python+used+for?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQzmd6BAgGEAc\x22 data-ved\x3d\x222ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQzmd6BAgGEAc\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid_2';var lve=true;(function(){var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_3','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22Gx5Zad xpd EtOod pkphOe\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eIf you\x27re looking for a general answer, here it is: \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eIf you just want to learn the Python basics, it may only take a few weeks\x3c/span\x3e. However, if you\x27re pursuing a data science career from the beginning, you can expect it to take four to twelve months to learn enough advanced Python to be job-ready.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.dataquest.io/blog/how-long-does-it-take-to-learn-python/\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAYQDQ\x26amp;usg\x3dAOvVaw0aqT0AwFuId3NIz32yHQWi\x22 data-ved\x3d\x222ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAYQDQ\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22rQMQod Xb5VRe\x22\x3eHow Long Does It Really Take to Learn Python? (2024 Version)\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.dataquest.io \u203a blog \u203a how-long-does-it-take-to-learn-python\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com/search?sca_esv\x3d598359895\x26amp;ei\x3dtsqjZfDBB-Tp4-EPgq-b2A8\x26amp;q\x3dCan+I+learn,+Python+in+a+month?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQzmd6BAgGEA4\x22 data-ved\x3d\x222ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQzmd6BAgGEA4\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid_3';var lve=true;(function(){var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_5','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22Gx5Zad xpd EtOod pkphOe\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3ePython \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3euses new lines to complete a command\x3c/span\x3e, as opposed to other programming languages which often use semicolons or parentheses. Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.w3schools.com/python/python_intro.asp\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAYQFA\x26amp;usg\x3dAOvVaw0dRkeYHTDAXMDIgqA_1WwY\x22 data-ved\x3d\x222ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAYQFA\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22rQMQod Xb5VRe\x22\x3eIntroduction to Python - W3Schools\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.w3schools.com \u203a python \u203a python_intro\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com/search?sca_esv\x3d598359895\x26amp;ei\x3dtsqjZfDBB-Tp4-EPgq-b2A8\x26amp;q\x3dWhat+is+Python+with+example?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQzmd6BAgGEBU\x22 data-ved\x3d\x222ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQzmd6BAgGEBU\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid_4';var lve=true;(function(){var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_7','\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22Gx5Zad xpd EtOod pkphOe\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eWhy is it called Python? \xb6 When he began implementing Python, Guido van Rossum was also reading the published scripts from \u201cMonty Python\x27s Flying Circus\u201d, a BBC comedy series from the 1970s. \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eVan Rossum thought he needed a name that was short, unique, and slightly mysterious\x3c/span\x3e, so he decided to call the language Python.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://docs.python.org/3/faq/general.html\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAYQGw\x26amp;usg\x3dAOvVaw1XJ9xlTtDcbiIngTp-G1aX\x22 data-ved\x3d\x222ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQFnoECAYQGw\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22rQMQod Xb5VRe\x22\x3eGeneral Python FAQ \u2014 Python 3.12.1 documentation\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3edocs.python.org \u203a faq \u203a general\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com/search?sca_esv\x3d598359895\x26amp;ei\x3dtsqjZfDBB-Tp4-EPgq-b2A8\x26amp;q\x3dWhy+is+it+called+a+Python?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQzmd6BAgGEBw\x22 data-ved\x3d\x222ahUKEwjw9IWf6NyDAxXk9DgGHYLXBvsQzmd6BAgGEBw\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid_5';var lve=false;(function(){var e="undefined"!==typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={Enter:13," ":32},h={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},k={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},l={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;!c&&d.key&&(c=g[d.key]);e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in l);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||
+a.tagName).toUpperCase()in k&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var m=!(b in h)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==h[b]%c||m)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();if (!google.stvsc){google.drty && google.drty(undefined,true);}
+  </script>
+ </body>
+</html>
